@@ -326,7 +326,7 @@
 327	смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vb1991m#Владислав Бабич#44064#43973
 328	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#43973#43912
 329	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vb1991m#Владислав Бабич#43912#22.55
-330	катался	катать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vb1991m#Владислав Бабич#22.55#44065
+330	катался	кататься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vb1991m#Владислав Бабич#22.55#44065
 331	на	на	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#44065#43974
 332	роликах	ролик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#43974#43913
 333	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#43913#23.55
@@ -463,7 +463,7 @@
 464	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@vb1991m#Владислав Бабич#57.14#57.395
 465	что	что	PRON	_	Case=Acc	_	_	_	words@vb1991m#Владислав Бабич#57.395#57.65
 466	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#57.65#57.905
-467	прикалываешься?	прикалываешься?	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#57.905#58.16
+467	прикалываешься?	прикалываться?	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@vb1991m#Владислав Бабич#57.905#58.16
 468	у	у	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#58.25#58.422
 469	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@vb1991m#Владислав Бабич#58.422#58.594
 470	тут	тут	ADV	_	Degree=Pos	_	_	_	words@vb1991m#Владислав Бабич#58.594#58.766
@@ -504,7 +504,7 @@
 505	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#67.378#67.55
 506	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#67.55#67.73
 507	возьми	брать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#68.16#68.372
-508	стимер	стимер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#68.372#68.584
+508	стимерек	стимер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#68.372#68.584
 509	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#68.584#68.796
 510	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#68.796#69.01
 511	что	что	PRON	_	Case=Nom	_	_	_	words@vb1991m#Владислав Бабич#69.33#69.72
@@ -881,7 +881,7 @@
 882	приготовить	приготовить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#209.954#210.266
 883	две	два	NUM	_	Case=Acc|Gender=Fem	_	_	_	words@vb1991m#Владислав Бабич#210.266#210.578
 884	классические	классический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#210.578#210.89
-885	джезвы	джезва	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#210.89#211.202
+885	джезвы	джезва	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#210.89#211.202
 886	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#211.202#211.514
 887	кофе	кофе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#211.514#211.826
 888	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#211.826#212.138
@@ -1076,7 +1076,7 @@
 1077	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	words@vb1991m#Владислав Бабич#276.993#277.199
 1078	пить	пить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#277.199#277.405
 1079	не	не	PART	_	_	_	_	_	words@vb1991m#Владислав Бабич#277.405#277.611
-1080	будем!	будем!	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#277.611#277.825
+1080	будем!	быть!	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#277.611#277.825
 1081	поговорить	говорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#280.72#280.88
 1082	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#280.88#281.04
 1083	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#281.04#281.2
@@ -1094,7 +1094,7 @@
 1095	по	по	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#284.69#285.0
 1096	чуть-чуть	чуть-чуть	ADV	_	Degree=Pos	_	_	_	words@vb1991m#Владислав Бабич#285.0#285.31
 1097	к	к	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#285.31#285.62
-1098	капучино	капучино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#285.62#285.93
+1098	капучино	капучино	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#285.62#285.93
 1099	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#285.93#286.24
 1100	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#286.24#286.55
 1101	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#286.55#286.86
