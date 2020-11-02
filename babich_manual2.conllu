@@ -564,7 +564,7 @@
 565	кофейня	кофейня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#89.194#89.6
 566	её	её	DET	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	words@vb1991m#Владислав Бабич#89.6#90.006
 567	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#90.006#90.412
-568	знакомых	знакомые	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#90.412#90.818
+568	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#90.412#90.818
 569	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#90.818#91.224
 570	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#91.224#91.63
 571	и	и	CCONJ	_	_	_	_	_	words@vb1991m#Владислав Бабич#91.63#91.824
@@ -765,8 +765,8 @@
 766	встаю	встать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#152.624#152.87
 767	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#152.87#153.116
 768	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#153.116#153.362
-769	то	то	SCONJ	_	_	_	_	_	words@vb1991m#Владислав Бабич#153.362#153.608
-770	биш	биш	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#153.608#153.854
+769	то	то	PRON	_	Animacy=Inan|Case-Nom|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#153.362#153.608
+770	бишь	бишь	PART	_	_	_	_	_	words@vb1991m#Владислав Бабич#153.608#153.854
 771	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	words@vb1991m#Владислав Бабич#153.854#154.1
 772	научила	научить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#154.1#154.346
 773	сына	сын	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#154.346#154.592
@@ -993,11 +993,11 @@
 994	есть?	есть?	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#252.025#252.267
 995	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#252.267#252.509
 996	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#252.509#252.755
-997	Кловская	Кловская	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#252.89#253.153
+997	Кловская	Кловская	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#252.89#253.153
 998	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#253.153#253.416
 999	на	на	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#253.416#253.679
 1000	метро	метро	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#253.679#253.942
-1001	Кловская	Кловский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#253.942#254.205
+1001	Кловская	Кловский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#253.942#254.205
 1002	открылась	открыться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vb1991m#Владислав Бабич#254.205#254.468
 1003	очень	очень	ADV	_	Degree=Pos	_	_	_	words@vb1991m#Владислав Бабич#254.468#254.731
 1004	прекрасная	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#254.731#254.994
@@ -1092,7 +1092,7 @@
 1093	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#284.07#284.38
 1094	приучили	приучать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#284.38#284.69
 1095	по	по	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#284.69#285.0
-1096	чуть-чуть	чуть-чуть	PART	_	_	_	_	_	words@vb1991m#Владислав Бабич#285.0#285.31
+1096	чуть-чуть	чуть-чуть	ADV	_	Degree=Pos	_	_	_	words@vb1991m#Владислав Бабич#285.0#285.31
 1097	к	к	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#285.31#285.62
 1098	капучино	капучино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#285.62#285.93
 1099	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#285.93#286.24
@@ -1117,7 +1117,7 @@
 1118	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#290.35#290.525
 1119	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vb1991m#Владислав Бабич#290.61#290.791
 1120	по	по	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#290.791#290.972
-1121	чуть-чуть	чуть-чуть	PART	_	_	_	_	_	words@vb1991m#Владислав Бабич#290.972#291.153
+1121	чуть-чуть	чуть-чуть	ADV	_	Degree=Pos	_	_	_	words@vb1991m#Владислав Бабич#290.972#291.153
 1122	приходило	приходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vb1991m#Владислав Бабич#291.153#291.334
 1123	к	к	ADP	_	_	_	_	_	words@vb1991m#Владислав Бабич#291.334#291.515
 1124	этим	этот	DET	_	Case=Dat|Number=Plur	_	_	_	words@vb1991m#Владислав Бабич#291.515#291.696
@@ -1158,4 +1158,3 @@
 1159	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#298.995#299.156
 1160	/	/	PUNCT	_	_	_	_	_	words@vb1991m#Владислав Бабич#299.156#299.32
 1161	вот	вот	PART	_	_	_	_	_	words@vb1991m#Владислав Бабич#299.73#300.07
-
